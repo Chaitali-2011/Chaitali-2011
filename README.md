@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">"Crafting Digital Innovations: The Path of a Software Developer"</h3>
 
